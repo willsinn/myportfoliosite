@@ -9,7 +9,7 @@ class Projects extends Component {
     }
 
     toggleCategories() {
-      {/* Create a file for each project page and import into mainpage, Projects, */}
+      /* Create a file for each project page and import into mainpage, Projects, */
 
       if(this.state.activeTab === 0){
 
