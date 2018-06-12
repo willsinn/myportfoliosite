@@ -40,8 +40,11 @@ class Resume extends Component {
 
 
             <Skills
-              skill="JavaScript"
-              progress={100}
+              skillOne="JavaScript"
+
+              skillTwo="Html"
+
+              skillThree="CSS"
               />
 
             <hr style={{borderBottom: '3px solid #e22947'}} />
@@ -74,8 +77,8 @@ class Resume extends Component {
             <Education
               startYear={2012}
               endYear={2018}
-              schoolName="First Job"
-              schoolDescription="Bright Kids"
+              schoolName="Hunter College"
+              schoolDescription="Accounting"
               />
 
 
